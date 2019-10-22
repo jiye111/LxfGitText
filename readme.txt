@@ -4,3 +4,4 @@ Git test third write
 Git test fourth write
 fix conflict and success merge
 test branch
+bug fix
